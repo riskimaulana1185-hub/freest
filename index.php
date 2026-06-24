@@ -94,7 +94,7 @@ require_once '../settings.php';
         Country
       </label>
             <select id="country" class="w-full p-4 bg-transparent text-white rounded-lg border border-gray-600 focus:border-purple-500 focus:outline-none text-base">
-        <option>Malaysia</option>
+        <option>Indonesia</option>
       </select>
         </div>
         <!-- Nomor Telepon -->
